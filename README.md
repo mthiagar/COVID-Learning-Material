@@ -13,10 +13,7 @@ Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecula
 
 ### Vaccines
 * [mRNA Vaccines for COVID-19](https://www.youtube.com/watch?v=SR-9Bo2CaRQ) (4:04) - Animated explainer from the American Society of Gene and Cell Therapy
-[Coronavirus Vaccines - An Introduction](https://www.youtube.com/watch?v=KMc3vL_MIeo) (9:53) - Good explanation of various types of COVID vaccines work from the Journal of the American Medican Association (JAMA)
-https://www.youtube.com/watch?v=u_MzVVzvUQE&feature=youtu.be
-
-### Epidemiology
+* [Coronavirus Vaccines - An Introduction](https://www.youtube.com/watch?v=KMc3vL_MIeo) (9:53) - Good explanation of various types of COVID vaccines work from the Journal of the American Medican Association (JAMA)
 
 ## By Material
 ### MIT Lecture Series
