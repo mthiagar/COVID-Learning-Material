@@ -15,6 +15,13 @@ Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecula
 * [mRNA Vaccines for COVID-19](https://www.youtube.com/watch?v=SR-9Bo2CaRQ) (4:04) - Animated explainer from the American Society of Gene and Cell Therapy
 * [Coronavirus Vaccines - An Introduction](https://www.youtube.com/watch?v=KMc3vL_MIeo) (9:53) - Good explanation of various types of COVID vaccines work from the Journal of the American Medican Association (JAMA)
 
+### Dashboards, Epidemiolgy
+* [Johns Hopkins University Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - One of the most  most popular dashboards. 
+* [WHO Dashboard](https://covid19.who.int/)
+* [Next Strain](https://nextstrain.org/sars-cov-2/) - Contains Real-time tracking of pathogen evolution using sequencing data.
+* [New York Times Tracking of COVID-19](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+
+
 ## By Material
 ### MIT Lecture Series
-* [COVID-19, SARS-CoV-2 and the Pandemic](https://biology.mit.edu/undergraduate/current-students/subject-offerings/covid-19-sars-cov-2-and-the-pandemic/) - Free lecture materials from MIT. Includes 14 lectures covering various aspects of the COVID-19 pandemic, from virology, to treatment, to epidemiology. Features very prominant guest lectures including Dr. Eric Lander and Dr. Antony Faucci.
+* [COVID-19, SARS-CoV-2 and the Pandemic](https://biology.mit.edu/undergraduate/current-students/subject-offerings/covid-19-sars-cov-2-and-the-pandemic/) - Free lecture materials from MIT. Includes 14 lectures covering various aspects of the COVID-19 pandemic, from virology, to treatment, to epidemiology. Features very prominant guest lectures including Dr. Antony Faucci, Dr. Eric Lander and others.
