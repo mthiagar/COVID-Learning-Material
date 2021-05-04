@@ -20,6 +20,7 @@ Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecula
 * [Coronavirus Vaccines - An Introduction](https://www.youtube.com/watch?v=KMc3vL_MIeo) (9:53) - Good explanation of various types of COVID vaccines work from the Journal of the American Medican Association (JAMA)
 
 ### Dashboards, Epidemiolgy
+* [Daily Epidemiology Update (Canada)](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) - Governement of Canada Daily Epidemiology update. 
 * [Johns Hopkins University Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - One of the most  most popular dashboards. 
 * [WHO Dashboard](https://covid19.who.int/)
 * [Next Strain](https://nextstrain.org/ncov/global) - Genomic epidemiology of novel coronavirus - Global subsampling
