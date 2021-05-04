@@ -13,7 +13,7 @@ Learning Material for COVID
 * [The Molecular Virology of Coronaviruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489918/pdf/zbc12910.pdf) - A deeper dive and covers more in-depth material than the material above. 
 Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecular virology of coronaviruses. J Biol Chem. 2020 Sep 11;295(37):12910-12934. doi: 10.1074/jbc.REV120.013930. Epub 2020 Jul 13. PMID: 32661197; PMCID: PMC7489918.
 #### Variants
-[Updates on COVID-19 Variants of Concern](https://nccid.ca/covid-19-variants/) - Updates on COVID-19 Variants of Concern from the National Collaborating Centre for Infectious diseases (Canada). 
+* [Updates on COVID-19 Variants of Concern](https://nccid.ca/covid-19-variants/) - Updates on COVID-19 Variants of Concern from the National Collaborating Centre for Infectious diseases (Canada). 
 * [The variant gambit: COVID-19’s next move](https://www.sciencedirect.com/science/article/pii/S1931312821000998) -  Review paper on of variants of concern inlcuded, UK, South Africa and Brazil variants amoung others. 
 ### Vaccines
 * [mRNA Vaccines for COVID-19](https://www.youtube.com/watch?v=SR-9Bo2CaRQ) (4:04) - Animated explainer from the American Society of Gene and Cell Therapy
