@@ -6,7 +6,7 @@ Learning Material for COVID
 * [Animated Overview Explainer](https://www.youtube.com/watch?v=ThG_02miq-4) (8:20m) - Covers essential basic theory from extraction to rt-PCR
 * [Animation of Chemagic RNA Bead extraction](https://www.youtube.com/watch?v=deVufNDJ4GI) (2:22) - Simple visualization of the RNA purification process on the Chemagic.
 * [Altona Extraction Principle](https://www.altona-diagnostics.com/en/products/reagents/altostar.html) - Basic visual documentation of Altona purification.
-* [Artic Network Protocols for Sequencing of SARS-COV2](https://artic.network/ncov-2019) 
+* [Artic Network Protocols for Sequencing of SARS-COV2](https://artic.network/ncov-2019) - One of the most commonly used set of protocols for whole genome sequencing. Focus is on using the Oxford Nanopore platform. Includes wetlab protocols, bioinformatics, primer sequences and reference information.  
 ### Biology
 * [COVID-19 Animation: What Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=5DGwOJXSxqg) (7:27)
 * [Coronavirus biology](https://www.youtube.com/watch?v=r2mOU2qOCYs) (56:08) - Excellent intro to the basic molecular virology of Corona viruses. Assumes some biology background. Presented by Dr. Britt Glaunsinger for MIT Lectures series on COVID-19. The rest of the series is listed below. 
