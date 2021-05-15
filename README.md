@@ -15,7 +15,7 @@ Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecula
 #### Variants
 * [Updates on COVID-19 Variants of Concern](https://nccid.ca/covid-19-variants/) - Updates on COVID-19 Variants of Concern from the National Collaborating Centre for Infectious diseases (Canada). 
 * [New York Times Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
-* [The variant gambit: COVID-19’s next move](https://www.sciencedirect.com/science/article/pii/S1931312821000998) -  Review paper on of variants of concern inlcuded, UK, South Africa and Brazil variants amoung others. 
+* [The variant gambit: COVID-19’s next move](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919536/pdf/main.pdf) -  Review paper on of variants of concern inlcuded, UK, South Africa and Brazil variants amoung others. 
 ### Vaccines
 * [mRNA Vaccines for COVID-19](https://www.youtube.com/watch?v=SR-9Bo2CaRQ) (4:04) - Animated explainer from the American Society of Gene and Cell Therapy
 * [Coronavirus Vaccines - An Introduction](https://www.youtube.com/watch?v=KMc3vL_MIeo) (9:53) - Good explanation of various types of COVID vaccines work from the Journal of the American Medican Association (JAMA)
