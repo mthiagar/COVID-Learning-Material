@@ -25,7 +25,7 @@ Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA. The molecula
 * [Johns Hopkins University Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - One of the most  most popular dashboards. 
 * [WHO Dashboard](https://covid19.who.int/)
 * [Next Strain](https://nextstrain.org/ncov/global) - Genomic epidemiology of novel coronavirus - Global subsampling
-* [Canadian Genomic Epidemiology Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919536/pdf/main.pdf) - Genomic epidemiology of novel coronavirus - North America_Canada-focused subsampling
+* [Canadian Genomic Epidemiology Data](http://auspice.finlaymagui.re/ncov/north-america/canada?f_country=Canada) - Genomic epidemiology of novel coronavirus - North America_Canada-focused subsampling
 * [New York Times Tracking of COVID-19](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 
 
